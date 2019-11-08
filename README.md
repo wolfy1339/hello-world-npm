@@ -12,7 +12,7 @@ Or add this package to your `package.json` file:
 
 ```
 "dependencies": {
-    "@octo-org/hello-world-npm": "1.0.13"
+    "@octo-org/hello-world-npm": "1.0.14"
   }
 ```
 
