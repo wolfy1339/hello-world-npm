@@ -1,5 +1,5 @@
 {
-  "name": "@octo-org/hello-world-npm",
+  "name": "@wolfy1339/hello-world-npm",
   "version": "1.0.15",
   "description": "A simple npm package to demonstrate GitHub Packages",
   "main": "index.js",
