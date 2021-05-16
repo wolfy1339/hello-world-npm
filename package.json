@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/octo-org/hello-world-npm.git"
+    "url": "git+https://github.com/wolfy1339/hello-world-npm.git"
   },
   "author": "runleonarun",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/octo-org/hello-world-npm/issues"
+    "url": "https://github.com/wolfy1339/hello-world-npm/issues"
   },
-  "homepage": "https://github.com/octo-org/hello-world-npm#readme",
+  "homepage": "https://github.com/wolfy1339/hello-world-npm#readme",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   }
